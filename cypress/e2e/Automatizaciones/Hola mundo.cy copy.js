@@ -8,7 +8,7 @@ Cypress.on("uncaught:exception", (err, runnable) => {
     it('mi primer test -> hola mundo', () => {
         
         cy.log("Hola mundo");
-        cy.wait(1500)
+        cy.wait(6000)
     });
     
     it('segundo test  > campo name', () => {
