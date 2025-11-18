@@ -6,7 +6,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // Aquí irían tus listeners o plugins si los necesitas
     },
-    viewportWidth: 1500,
+    viewportWidth: 6000,
     viewportHeight: 900,
     chromeWebSecurity: false,
     defaultCommandTimeout: 15000,
