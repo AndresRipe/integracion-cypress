@@ -6,3 +6,6 @@ ejecutar estos codigos en orden desde la terminal
 3.1 npx cypress open (abrir cypress ruta mas corta aun que es lo mismo)
 3.2 npx --version (validar que version de npx tengo de la Si te devuelve un número (por ejemplo 10.2.3 o similar), ya está listo)
 4- para detener cypress consola ctrl + c
+
+
+npx cypress run --record --key d16a6315-dab1-482b-bbf9-fbbf4430e472
