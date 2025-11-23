@@ -8,4 +8,3 @@ ejecutar estos codigos en orden desde la terminal
 4- para detener cypress consola ctrl + c
 
 
-npx cypress run --record --key d16a6315-dab1-482b-bbf9-fbbf4430e472
